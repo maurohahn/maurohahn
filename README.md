@@ -9,16 +9,17 @@ Image Fibraplac src="http://fibraplac.com.br/web/dist/img/pin/place/3.png"
 
 In my free time I like to play football (⚽️), play my accordion (🎹) and stay up late (☁️🌙☁️) on the computer studying (📚) and making things up (💡).
 
-- 🔭 I’m currently working on [Fibraplac ](http://fibraplac.com.br/) 
+- 🔭 I’m currently working on [@fibraplac ](http://fibraplac.com.br/) 
 
 <div>
   <ul>
     <li>
       🔭 I’m currently working on
       <span style="">
-        <a href="http://fibraplac.com.br/">Fibraplac</a>
+        <a href="http://fibraplac.com.br/">Fibraplac
+          <img style="vertical-align:middle" src="http://fibraplac.com.br/web/dist/img/pin/place/3.png">
+        </a>
       </span>
-      <img style="vertical-align:middle" src="http://fibraplac.com.br/web/dist/img/pin/place/3.png">
     </li>
   </ul>
 </div>
