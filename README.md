@@ -11,19 +11,6 @@ In my free time I like to play football (⚽️), play my accordion (🎹) and s
 
 - 🔭 I’m currently working on [@fibraplac ](http://fibraplac.com.br/) 
 
-<div>
-  <ul>
-    <li>
-      🔭 I’m currently working on
-      <span style="">
-        <a href="http://fibraplac.com.br/">Fibraplac
-          <img style="vertical-align:middle" src="http://fibraplac.com.br/web/dist/img/pin/place/3.png">
-        </a>
-      </span>
-    </li>
-  </ul>
-</div>
-
 [![Linkedin Badge](https://img.shields.io/badge/-maurohahn-DarkRed?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maurohahn/)](https://br.linkedin.com/in/maurohahn/) 
 [![Instagram Badge](https://img.shields.io/badge/-maurohahndeavila-DarkRed?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maurohahndeavila)](https://www.instagram.com/maurohahndeavila/)
 [![Gmail Badge](https://img.shields.io/badge/-maurohahn.dev@gmail.com-DarkRed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maurohahn.dev@gmail.com)](mailto:maurohahn.dev@gmail.com)
