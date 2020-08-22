@@ -1,4 +1,4 @@
-<h1 align="center">Hi stranger ✌🏻, I'm Mauro Hahn</h1>
+<h1 align="center">Hi stranger, I'm Mauro Hahn</h1>
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
