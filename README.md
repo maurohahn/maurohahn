@@ -5,7 +5,7 @@
 Image Fibraplac src="http://fibraplac.com.br/web/dist/img/pin/place/3.png"
 -->
 
-<h3 align="center">Me gusta techs para soluciones mundanas</h3>
+<h3 align="center">"Me gusta techs para soluciones mundanas"</h3>
 
 In my free time I like to play football (⚽️), play my accordion (🎹) and stay up late (☁️🌙☁️) on the computer studying (📚) and making things up (💡).
 
