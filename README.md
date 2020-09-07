@@ -7,7 +7,7 @@ Image Fibraplac src="http://fibraplac.com.br/web/dist/img/pin/place/3.png"
 
 <h3 align="center">"Me gusta techs para soluciones mundanas"</h3>
 
-Studying (📚) and inventing (💡) things... . 
+Studying (📚) and inventing (💡) things...
 
 - 🔭 I’m currently working on [@fibraplac ](http://fibraplac.com.br/) 
 
