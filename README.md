@@ -1,11 +1,11 @@
-<h1 align="center">Hi stranger, I'm Mauro Hahn</h1>
+<h1 align="center">Hi , I'm Mauro Hahn</h1>
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Image Fibraplac src="http://fibraplac.com.br/web/dist/img/pin/place/3.png"
 -->
 
-<h3 align="center">"Me gusta techs para soluciones mundanas"</h3>
+<h3 align="center">"Under construction"</h3>
 
 Studying (📚) and inventing (💡) things...
 
